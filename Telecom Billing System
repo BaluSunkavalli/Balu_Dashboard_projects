@@ -1,0 +1,4 @@
+In this article, we are going to create a basic Telecom Billing System using the C programming language. 
+This system allows users to perform operations such as adding new customer records, viewing the list of records, modifying existing records, viewing payment details, searching for specific records, and deleting records.
+A telecom billing system is a digital system to keeps track of user, their service usage and their pending bill. 
+It is able to store and manage data of multiple users and helps the telecom provider automate the billing of the services from the customer.

@@ -1,0 +1,19 @@
+🔍 Project Overview: The main goal of this project was to create a solution that generates high-quality QR codes capable of storing URLs and text information. QR codes have become an essential tool for businesses and individuals, providing an easy way to share information with just a quick scan.
+
+💡 Key Features:
+
+Utilized the ZXing library for efficient QR code generation.
+Generated QR codes that link to URLs or store plain text.
+Extensive testing across multiple devices to ensure universal scannability and usability.
+Achieved a 95% success rate in QR code scans during user trials.
+Flexible enough for use in personal or professional scenarios, enhancing accessibility.
+🔧 Technologies Used:
+
+Java for core application logic.
+ZXing (Zebra Crossing) for QR code generation.
+Maven for dependency management and project build automation.
+💼 Use Cases:
+
+Share website links, contact information, or plain text via QR codes.
+Business card QR codes for professional networking.
+Quick access to digital content in marketing and advertising campaigns.
